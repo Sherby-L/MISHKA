@@ -5,4 +5,4 @@
 - Адаптивная верстка (mobile, tablet, desktop)
 - Использование HTML, CSS.
 
-[Пример](sherby-l.github.io/MISHKA//)
+[Посмотреть сайт](https://sherby-l.github.io/MISHKA/)
